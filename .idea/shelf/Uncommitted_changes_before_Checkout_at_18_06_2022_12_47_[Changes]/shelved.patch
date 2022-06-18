@@ -1,0 +1,67 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"7cebe198-e007-49c5-8980-b0503519042e\" name=\"Changes\" comment=\"\">\r\n      <change afterPath=\"$PROJECT_DIR$/.gitignore\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/gradle.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/misc.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/vcs.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/build.gradle.kts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/gradle.properties\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/gradlew\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/gradlew.bat\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/settings.gradle.kts\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/kotlin/libre/LinkedList.kt\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/kotlin/libre/No.kt\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/kotlin/variableExer/DistanceHamming.kt\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/kotlin/variableExer/PlusMine.kt\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ExternalProjectsData\">\r\n    <projectState path=\"$PROJECT_DIR$\">\r\n      <ProjectState />\r\n    </projectState>\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Kotlin Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2AH3mKob5BEQ0Nslkw0aLNvZhdH\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RunManager\" selected=\"Kotlin.LinkedListKt\">\r\n    <configuration name=\"DistanceHammingKt\" type=\"JetRunConfigurationType\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"variableExer.DistanceHammingKt\" />\r\n      <module name=\"kotlin.main\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"LinkedListKt\" type=\"JetRunConfigurationType\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"libre.LinkedListKt\" />\r\n      <module name=\"kotlin.main\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"NoKt\" type=\"JetRunConfigurationType\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"libre.NoKt\" />\r\n      <module name=\"kotlin.main\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"PlusMineKt (1)\" type=\"JetRunConfigurationType\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"PlusMineKt\" />\r\n      <module name=\"kotlin.main\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"PlusMineKt\" type=\"JetRunConfigurationType\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"variableExer.PlusMineKt\" />\r\n      <module name=\"kotlin.main\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Kotlin.LinkedListKt\" />\r\n        <item itemvalue=\"Kotlin.NoKt\" />\r\n        <item itemvalue=\"Kotlin.DistanceHammingKt\" />\r\n        <item itemvalue=\"Kotlin.PlusMineKt\" />\r\n        <item itemvalue=\"Kotlin.PlusMineKt (1)\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"7cebe198-e007-49c5-8980-b0503519042e\" name=\"Changes\" comment=\"\" />\r\n      <created>1654652843342</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1654652843342</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"XDebuggerManager\">\r\n    <breakpoint-manager>\r\n      <breakpoints>\r\n        <line-breakpoint enabled=\"true\" type=\"kotlin-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/kotlin/libre/No.kt</url>\r\n          <line>5</line>\r\n          <option name=\"timeStamp\" value=\"2\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"kotlin-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/kotlin/libre/LinkedList.kt</url>\r\n          <line>64</line>\r\n          <option name=\"timeStamp\" value=\"12\" />\r\n        </line-breakpoint>\r\n      </breakpoints>\r\n    </breakpoint-manager>\r\n  </component>\r\n</project>
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -59,7 +59,30 @@
+     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+   }
+ }</component>
+-  <component name="RunManager" selected="Kotlin.LinkedListKt">
++  <component name="RunManager" selected="Gradle.TesteClas">
++    <configuration name="TesteClas" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
++      <ExternalSystemSettings>
++        <option name="executionName" />
++        <option name="externalProjectPath" value="$PROJECT_DIR$" />
++        <option name="externalSystemIdString" value="GRADLE" />
++        <option name="scriptParameters" value="" />
++        <option name="taskDescriptions">
++          <list />
++        </option>
++        <option name="taskNames">
++          <list>
++            <option value=":test" />
++            <option value="--tests" />
++            <option value="&quot;hackerhankTest.TesteClas&quot;" />
++          </list>
++        </option>
++        <option name="vmOptions" />
++      </ExternalSystemSettings>
++      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
++      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
++      <DebugAllEnabled>false</DebugAllEnabled>
++      <method v="2" />
++    </configuration>
+     <configuration name="DistanceHammingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+       <option name="MAIN_CLASS_NAME" value="variableExer.DistanceHammingKt" />
+       <module name="kotlin.main" />
+@@ -81,13 +104,6 @@
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="PlusMineKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="PlusMineKt" />
+-      <module name="kotlin.main" />
+-      <method v="2">
+-        <option name="Make" enabled="true" />
+-      </method>
+-    </configuration>
+     <configuration name="PlusMineKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+       <option name="MAIN_CLASS_NAME" value="variableExer.PlusMineKt" />
+       <module name="kotlin.main" />
+@@ -97,11 +113,11 @@
+     </configuration>
+     <recent_temporary>
+       <list>
++        <item itemvalue="Gradle.TesteClas" />
+         <item itemvalue="Kotlin.LinkedListKt" />
+         <item itemvalue="Kotlin.NoKt" />
+         <item itemvalue="Kotlin.DistanceHammingKt" />
+         <item itemvalue="Kotlin.PlusMineKt" />
+-        <item itemvalue="Kotlin.PlusMineKt (1)" />
+       </list>
+     </recent_temporary>
+   </component>
